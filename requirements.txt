@@ -1,0 +1,8 @@
+pymupdf
+python-pptx
+pypdf
+pdfplumber
+pypdf2
+tabula-py
+sympy
+fitz
